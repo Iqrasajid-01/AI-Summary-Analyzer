@@ -220,10 +220,15 @@ AI_Summary/
 ✅ Tailor keywords to job description
 
 ### What to Avoid
+
 ❌ Image-only PDFs (scanned resumes)
+
 ❌ Complex multi-column layouts
+
 ❌ Graphics and icons instead of text
+
 ❌ Unusual section names
+
 ❌ Tables and text boxes
 
 ---
