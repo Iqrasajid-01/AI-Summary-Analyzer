@@ -208,15 +208,23 @@ AI_Summary/
 
 ### Resume Format
 ✅ Use standard PDF format
+
 ✅ Include clear section headings
+
 ✅ Place contact info at the top
+
 ✅ Use standard fonts (Arial, Calibri, Times New Roman)
 
 ### Content Optimization
+
 ✅ List 8-15 technical skills
+
 ✅ Include dates for all experience
+
 ✅ Use action verbs (led, developed, managed)
+
 ✅ Add quantifiable achievements (%, $, numbers)
+
 ✅ Tailor keywords to job description
 
 ### What to Avoid
@@ -289,7 +297,7 @@ This project is open source and available under the MIT License.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Streamlit** - For the amazing web framework
 - **spaCy** - For NLP capabilities
@@ -298,7 +306,7 @@ This project is open source and available under the MIT License.
 
 ---
 
-## 📞 Support
+## Support
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
